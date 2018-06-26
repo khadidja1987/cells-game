@@ -1,0 +1,51 @@
+body {
+    text-align: center;
+}
+
+.h1 {
+    font-family: OCR A Std, monospace;
+    font-size: 50px;
+    background-image: url(https://i.ytimg.com/vi/Mx8FFqARb8A/maxresdefault.jpg);
+}
+.colo {
+    color:#4FF;
+}
+.dodo {
+    color: #003 ;
+}
+h3 {
+    font-family: OCR A Std, monospace;
+    border-style:dashed;
+     border-color: #4FF;
+     border-width: 10px;
+
+     position: relative;
+     top :-19px;
+}
+
+table,
+tr,
+td {
+    border: 1px solid black;
+}
+
+table {
+    border-collapse: collapse;
+    margin: 0 auto;
+}
+
+tr {
+    height: 20px;
+}
+
+td {
+    width: 20px;
+}
+form {
+        font-family: OCR A Std, monospace;
+
+}
+
+input[type=number] {
+    width: 6em;
+}
